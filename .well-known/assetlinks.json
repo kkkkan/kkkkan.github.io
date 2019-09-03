@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.kkkkan",
+    "sha256_cert_fingerprints":
+    ["C1:77:1E:8A:B8:6F:CF:C8:BE:9B:19:E9:89:75:4B:88:AC:D4:1B:56:D7:9B:E7:4B:C8:1C:E9:FA:E8:A8:B5:14"]
+  }
+}]
